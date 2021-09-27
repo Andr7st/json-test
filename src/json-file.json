@@ -1,26 +1,22 @@
 [
     {
       "id": 1,
-      "name": "Andrés Segura",
+      "owner": "Andrés Segura",
       "username": "Andr7st",
-      "email": "andr7st@developer",
-        "link":"https://github.com/Andr7st",
-      "address": {
-        "street": "Calle Verde",
-        "suite": "Apt. b77",
-        "city": "Bogotá",
-        "zipcode": "7001",
-        "geo": {
-          "lat": "-37.4621",
-          "lng": "82.0001"
-        }
-      },
-      "phone": "300 124 9690",
-      "website": "https://andr7st.github.io/index/",
-      "company": {
-        "name": "student 412",
-        "catchPhrase": "student developer",
-        "bs": "algo inventado por aquí"
-      }
+      "comment":"this is the repo index of Andrés Segura",
+      "title":"index",
+      "link":"https://github.com/Andr7st/index",
+      "codename":"0000"
+    },
+    {
+      "id": 2,
+      "owner": "Andrés Segura",
+      "username": "Andr7st",
+      "comment":"Ejercicio de Api rest, para el curso de java.",
+      "title":"Spring Boot backend api rest",
+      "link":"https://github.com/Andr7st/springboot-api-rest-e1",
+      "codename":"0000"
     }
+
+
   ]
