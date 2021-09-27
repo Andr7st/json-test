@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Andrés Segura",
+      "username": "Andr7st",
+      "email": "andr7st@developer",
+        "link":"link-to",
+      "address": {
+        "street": "Calle Verde",
+        "suite": "Apt. b77",
+        "city": "Bogotá",
+        "zipcode": "7001",
+        "geo": {
+          "lat": "-37.4621",
+          "lng": "82.0001"
+        }
+      },
+      "phone": "300 124 9690",
+      "website": "https://andr7st.github.io/index/",
+      "company": {
+        "name": "student 412",
+        "catchPhrase": "student developer",
+        "bs": "algo inventado por aquí"
+      }
+    }
+  ]
